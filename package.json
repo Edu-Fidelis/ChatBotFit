@@ -1,0 +1,24 @@
+{
+  "name": "chatbotfit",
+  "version": "1.0.0",
+  "description": "JESUS is Good!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Edu-Fidelis/ChatBotFit.git"
+  },
+  "author": "Edu Fidelis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Edu-Fidelis/ChatBotFit/issues"
+  },
+  "homepage": "https://github.com/Edu-Fidelis/ChatBotFit#readme",
+  "dependencies": {
+    "dialogflow": "^4.0.3",
+    "node-telegram-bot-api": "^0.53.0",
+    "youtube-node": "^1.3.3"
+  }
+}
